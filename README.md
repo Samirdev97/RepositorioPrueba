@@ -1,5 +1,4 @@
-[AZUL] Proyecto INCREÍBLE de Motor de
-Juego.
+[VIOLETA] Proyecto INCREÍBLE y SERIO
 # Lectura Viva — Biblioteca Comunitaria
 Proyecto (FP / Entornos de desarrollo).
 Objetivo: gestionar catálogo de libros y préstamos de una
