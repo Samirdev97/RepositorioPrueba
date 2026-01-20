@@ -1,4 +1,5 @@
-Proyecto de Motor de Juego - Versión 1.0
+[ROJO] Proyecto SERIO de Motor de
+Juego
 # Lectura Viva — Biblioteca Comunitaria
 Proyecto (FP / Entornos de desarrollo).
 Objetivo: gestionar catálogo de libros y préstamos de una
